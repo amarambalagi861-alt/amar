@@ -1,4 +1,2 @@
-a=10
-b=20
-sum=a+b
-print(sum)
+x=int("3")
+print(type(x))
